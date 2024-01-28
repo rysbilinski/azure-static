@@ -1,0 +1,14 @@
+{
+    "activitycontinuation": {
+        "apps": [ "85HMA3YHJX.dev.redth.applinkssample" ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "85HMA3YHJX.dev.redth.applinkssample",
+                "paths": [ "*", "/*" ]
+            }
+        ]
+    }
+}
